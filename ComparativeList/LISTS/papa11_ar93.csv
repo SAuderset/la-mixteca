@@ -1,0 +1,218 @@
+IDlist	GLOSS	VALUE	FORM	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
+1	madre	cha³cu³					papa11	anderson1983diccionario
+2	mamá!	na⁴na¹		not entirely sure, found in an example			papa11	anderson1983diccionario
+3	padre	chi³da³					papa11	anderson1983diccionario
+3	padre	chi³du³					papa11	anderson1983diccionario
+4	papá!	$					papa11	anderson1983diccionario
+5	hijo/hija	da³ya³					papa11	anderson1983diccionario
+6	hijo	sa²'an⁴ da³ya³	sa²'an⁴ da³ya³	man-child			papa11	anderson1983diccionario
+7	hija	ta¹'an⁴ da³ya³	ta¹'an⁴ da³ya³	woman-child			papa11	anderson1983diccionario
+8	hermana/hermano de otro genero	c'a²v'a²					papa11	anderson1983diccionario
+9	hermano, hermanastro	d'i³nu⁴					papa11	anderson1983diccionario
+10	hermana, hermanastra	ta¹'an⁴ vi²'i⁴	ta¹'an⁴-vi²'i⁴	woman ?			papa11	anderson1983diccionario
+11	tía	du³di³					papa11	anderson1983diccionario
+12	tío	du²nu⁴					papa11	anderson1983diccionario
+13	hombre, varón	sa²'an⁴					papa11	anderson1983diccionario
+14	mujer	nd'a̠³ta̠³					papa11	anderson1983diccionario
+14	mujer (informal)	ta¹'an⁴					papa11	anderson1983diccionario
+15	dueño	'i⁴yan⁴ chin² ye⁴'en⁴	'i⁴yan⁴-chin²-ye⁴'en⁴				papa11	anderson1983diccionario
+16	sacerdote	chi³du³					papa11	anderson1983diccionario
+17	sangre	yun³					papa11	anderson1983diccionario
+18	hueso	i³ni³					papa11	anderson1983diccionario
+19	pelo	yu⁴du⁴					papa11	anderson1983diccionario
+20	cara	nan³					papa11	anderson1983diccionario
+21	lengua	ch'i³ya³					papa11	anderson1983diccionario
+22	diente	d'i²yun²					papa11	anderson1983diccionario
+23	boca	che³nde³					papa11	anderson1983diccionario
+24	oreja	ven³					papa11	anderson1983diccionario
+25	nariz	du³tu³					papa11	anderson1983diccionario
+26	cuello, garganta	da⁴ndu³					papa11	anderson1983diccionario
+27	mano	ta̠²'a̠⁴					papa11	anderson1983diccionario
+28	uña	$					papa11	anderson1983diccionario
+29	espalda	da²mi²					papa11	anderson1983diccionario
+30	panza, barriga	che⁴te⁴					papa11	anderson1983diccionario
+31	tripa, intestino	gue³te³					papa11	anderson1983diccionario
+32	pie	ca̠³'a̠³					papa11	anderson1983diccionario
+33	enfermedad	ca³'a³					papa11	anderson1983diccionario
+34	medicina	yi⁴cu⁴					papa11	anderson1983diccionario
+35	hinchazón	ca³'a³ yi³ndi³tu³	ca³'a³-yi³ndi³tu³	illness-?			papa11	anderson1983diccionario
+36	grano	nd'u²v'i²					papa11	anderson1983diccionario
+37	pus	ya³cua³		loan from Mixtec I think	maybe	Mixtec	papa11	anderson1983diccionario
+38	orina	nu⁴nv'e⁴de³					papa11	anderson1983diccionario
+39	tela	ti⁴nu⁴					papa11	anderson1983diccionario
+40	huarache	nda̠³cu³		loan?	maybe	Mixtec	papa11	anderson1983diccionario
+41	pantalón	pa³nta³lón¹		Sp. loan	yes	Spanish	papa11	anderson1983diccionario
+42	huipil	y'u²tu⁴					papa11	anderson1983diccionario
+43	pueblo	yan²⁴					papa11	anderson1983diccionario
+44	casa	va⁴'a³					papa11	anderson1983diccionario
+45	camino	yu²ni²					papa11	anderson1983diccionario
+46	horcón	yi³nga̠³'a̠³					papa11	anderson1983diccionario
+47	petate	yi³va³					papa11	anderson1983diccionario
+48	cama	ca²ma⁴		Sp. loan	yes	Spanish	papa11	anderson1983diccionario
+49	banco	yi²ta²³⁴					papa11	anderson1983diccionario
+50	animal	i³ti³					papa11	anderson1983diccionario
+51	pájaro	y'a²da²					papa11	anderson1983diccionario
+52	pez, pescado	y'a⁴ca⁴					papa11	anderson1983diccionario
+53	culebra, serpiente	cu²					papa11	anderson1983diccionario
+54	rana	ra²na¹		Sp. loan	yes	Spanish	papa11	anderson1983diccionario
+55	gavilán	i³yun³					papa11	anderson1983diccionario
+56	alacrán	i³tde³'en⁴	i³t-de³'en⁴	animal-tail			papa11	anderson1983diccionario
+57	cucaracha	stu²vi¹⁴	s-tu²vi¹⁴				papa11	anderson1983diccionario
+58	chapulín	ti²cua¹⁴					papa11	anderson1983diccionario
+59	abeja	y'en²⁴					papa11	anderson1983diccionario
+60	ratón, rata	ti'u¹⁴di⁴					papa11	anderson1983diccionario
+61	venado	i³che¹⁴nu³					papa11	anderson1983diccionario
+62	ardilla	i²yu¹⁴					papa11	anderson1983diccionario
+63	zorrillo	s'i¹m'a⁴					papa11	anderson1983diccionario
+64	tlacuache	y'a²ta¹⁴					papa11	anderson1983diccionario
+65	mapache	y'u⁴vi⁴ y'a²na⁴	y'u⁴vi⁴-y'a²na⁴	tejón perro			papa11	anderson1983diccionario
+66	conejo	co³ne³jo¹		Sp. loan	yes	Spanish	papa11	anderson1983diccionario
+67	zopilote	s'i³cu³					papa11	anderson1983diccionario
+68	perro	y'a²na⁴					papa11	anderson1983diccionario
+69	gato	vi²chi¹					papa11	anderson1983diccionario
+70	gallo	tu¹sa¹'an⁴	tu-¹sa¹'an⁴	?-male			papa11	anderson1983diccionario
+71	gallina	tu¹ta¹'an⁴	tu-¹ta¹'an⁴	?-female			papa11	anderson1983diccionario
+72	marrano	cu²chi¹		Sp. loan	yes	Spanish	papa11	anderson1983diccionario
+73	caballo, bestia	y'u²du⁴					papa11	anderson1983diccionario
+74	borrego, oveja	i³tcu³⁴chi⁴	i³t-cu³⁴chi⁴	animal-cotton			papa11	anderson1983diccionario
+75	hormiga	i³cu⁴					papa11	anderson1983diccionario
+76	cuerno	du³ni³ni³					papa11	anderson1983diccionario
+77	pluma	plu²ma¹		Sp. loan	yes	Spanish	papa11	anderson1983diccionario
+78	ala, brazo, paleta	gue⁴che³					papa11	anderson1983diccionario
+79	cola	ndu²cu⁴de⁴'en³	ndu²cu⁴-de⁴'en³	with-tail			papa11	anderson1983diccionario
+80	árbol, palo	ya²'an²					papa11	anderson1983diccionario
+81	hierba, hoja	ya⁴ta⁴					papa11	anderson1983diccionario
+82	zacate	ya²ma⁴					papa11	anderson1983diccionario
+82	pasto, zacate	yu³ni¹					papa11	anderson1983diccionario
+83	flor	na̠⁴nda̠⁴					papa11	anderson1983diccionario
+84	maguey, verdura	yi⁴va⁴					papa11	anderson1983diccionario
+85	raíz	d'i²yu²					papa11	anderson1983diccionario
+86	espina	yan²					papa11	anderson1983diccionario
+87	maíz en grano	ni²nu²					papa11	anderson1983diccionario
+88	milpa	yu²ndu⁴					papa11	anderson1983diccionario
+89	elote	yu²di²					papa11	anderson1983diccionario
+90	nixtamal	ve⁴ye⁴					papa11	anderson1983diccionario
+91	masa	ya⁴chi⁴					papa11	anderson1983diccionario
+92	tortilla	yu⁴ndu⁴					papa11	anderson1983diccionario
+93	rastrojo	yi²v'o²⁴					papa11	anderson1983diccionario
+94	surco	su²rcu⁴		Sp. loan	yes	Spanish	papa11	anderson1983diccionario
+95	espiga	ya²mi⁴					papa11	anderson1983diccionario
+96	frijol(es)	nu³ni³					papa11	anderson1983diccionario
+97	ejote	nde³te³					papa11	anderson1983diccionario
+98	chile	'i³ya³					papa11	anderson1983diccionario
+99	sal	yi⁴ma⁴					papa11	anderson1983diccionario
+100	calabaza	yu²cu⁴					papa11	anderson1983diccionario
+101	chayote	n'in²					papa11	anderson1983diccionario
+102	caña	ndu²					papa11	anderson1983diccionario
+103	miel, chahuistle	dan⁴³					papa11	anderson1983diccionario
+104	grasa, manteca	dun⁴					papa11	anderson1983diccionario
+105	blanquillo, huevo	du³ti³					papa11	anderson1983diccionario
+106	tomate	nd'a²tu⁴					papa11	anderson1983diccionario
+107	camote	m'in²⁴					papa11	anderson1983diccionario
+108	aguacate	nu³ngü'i³di⁴					papa11	anderson1983diccionario
+109	plátano	tia²ca²					papa11	anderson1983diccionario
+110	nopal	yi²nd'i³tu³					papa11	anderson1983diccionario
+111	mamey	tia²ccua̠³'a̠³	tia²c-cua̠³'a̠³	banana-red			papa11	anderson1983diccionario
+111	zapote	tia²jan²					papa11	anderson1983diccionario
+112	chirimoya, anona	ndu⁴cu⁴					papa11	anderson1983diccionario
+113	hongo	gue⁴'e⁴					papa11	anderson1983diccionario
+114	carne	yu²ta⁴					papa11	anderson1983diccionario
+115	comal	cha²					papa11	anderson1983diccionario
+116	olla	chi³ta³					papa11	anderson1983diccionario
+117	horno	ho²rno⁴		Sp. loan	yes	Spanish	papa11	anderson1983diccionario
+118	lumbre, fuego	ya²'an⁴					papa11	anderson1983diccionario
+119	ceniza	yi⁴ya⁴					papa11	anderson1983diccionario
+120	carbón	yi²yu⁴					papa11	anderson1983diccionario
+121	humo	y'a³m'i³					papa11	anderson1983diccionario
+122	basura	da²cu¹⁴					papa11	anderson1983diccionario
+123	plato, traste	cu³'u³					papa11	anderson1983diccionario
+124	jícara	ya³'a³					papa11	anderson1983diccionario
+125	canasta	cu'a²ta⁴					papa11	anderson1983diccionario
+125	tenate	y'u⁴cu³					papa11	anderson1983diccionario
+126	caja, baúl	yya²va²					papa11	anderson1983diccionario
+127	hilo	hi²lu⁴		Sp. loan	yes	Spanish	papa11	anderson1983diccionario
+128	peine	ca²ca⁴					papa11	anderson1983diccionario
+129	mecate, cuerda	'i⁴yu⁴					papa11	anderson1983diccionario
+130	agujero, hoyo	yi³va³					papa11	anderson1983diccionario
+131	red	ya⁴na⁴					papa11	anderson1983diccionario
+132	jabón	na²ma²					papa11	anderson1983diccionario
+133	anillo	cu⁴³ yi³nun³ ta̠³'a̠⁴	cu⁴³-yi³nun³-ta̠³'a̠⁴				papa11	anderson1983diccionario
+134	luna	i⁴yu⁴					papa11	anderson1983diccionario
+135	nube	men²⁴					papa11	anderson1983diccionario
+136	rayo	gu⁴					papa11	anderson1983diccionario
+136	rayo, relámpago	cu'a⁴³					papa11	anderson1983diccionario
+137	agua	nu⁴ni⁴					papa11	anderson1983diccionario
+138	lluvia	cu²vi⁴					papa11	anderson1983diccionario
+139	río	yi²cu²					papa11	anderson1983diccionario
+140	rocío	nu⁴ni⁴ d'i²v'i³yu³	nu⁴ni⁴-d'i²v'i³yu³	water-night.dew			papa11	anderson1983diccionario
+141	cerro, montaña	yi⁴cu⁴					papa11	anderson1983diccionario
+142	llanura, llano	yu²du⁴					papa11	anderson1983diccionario
+143	piedra	tu²⁴					papa11	anderson1983diccionario
+144	algodón	ya̠³va̠³ cu⁴chi⁴	ya̠³va̠³-cu⁴chi⁴	?-cotton			papa11	anderson1983diccionario
+145	fierro, metal	cu⁴³					papa11	anderson1983diccionario
+146	papel	ca³ca³					papa11	anderson1983diccionario
+147	cal	ca³ca³					papa11	anderson1983diccionario
+148	cera, abeja	y'en²⁴					papa11	anderson1983diccionario
+149	lodo	yi⁴nche⁴te¹⁴					papa11	anderson1983diccionario
+150	espuma	yu⁴quien²⁴					papa11	anderson1983diccionario
+151	polvo	yu⁴ni⁴					papa11	anderson1983diccionario
+152	rojo	cua̠¹'a̠⁴					papa11	anderson1983diccionario
+153	verde	cue³					papa11	anderson1983diccionario
+154	amarillo	cuan²					papa11	anderson1983diccionario
+155	negro	cuen¹					papa11	anderson1983diccionario
+156	blanco	cua¹⁴					papa11	anderson1983diccionario
+157	uno	a²ma²					papa11	anderson1983diccionario
+158	dos	u⁴vi⁴					papa11	anderson1983diccionario
+159	tres	i⁴nu⁴					papa11	anderson1983diccionario
+160	cuatro	cun⁴					papa11	anderson1983diccionario
+161	cinco	gu³'un³					papa11	anderson1983diccionario
+162	seis	gan⁴					papa11	anderson1983diccionario
+163	siete	nda⁴cha⁴					papa11	anderson1983diccionario
+164	ocho	ni³ni²					papa11	anderson1983diccionario
+165	nueve	nun³²					papa11	anderson1983diccionario
+166	diez	ndi³chi²					papa11	anderson1983diccionario
+167	quince	ndi³t'i³yun³					papa11	anderson1983diccionario
+168	veinte	ndi³cu²					papa11	anderson1983diccionario
+169	pobre	nda²chi¹⁴					papa11	anderson1983diccionario
+170	rico	ri²cu⁴		Sp. loan	yes	Spanish	papa11	anderson1983diccionario
+171	frío	i³cha²					papa11	anderson1983diccionario
+172	caliente	'i⁴n'u⁴					papa11	anderson1983diccionario
+173	grande.SG	ch'a³ta³					papa11	anderson1983diccionario
+174	grande.PL	'a³ta³					papa11	anderson1983diccionario
+175	chico.SG	l'in¹					papa11	anderson1983diccionario
+176	pequeño.PL, chico.PL	'a²ya¹⁴					papa11	anderson1983diccionario
+177	largo.SG	ch'e⁴nu⁴					papa11	anderson1983diccionario
+178	largo.PL	'e⁴nu⁴					papa11	anderson1983diccionario
+179	bueno	nd'a³²					papa11	anderson1983diccionario
+180	dulce	ya³di³					papa11	anderson1983diccionario
+181	salado	di⁴ni⁴					papa11	anderson1983diccionario
+182	amargo	ya̠³					papa11	anderson1983diccionario
+183	sabroso	yu³du³					papa11	anderson1983diccionario
+184	ancho	ch'e⁴n'u⁴					papa11	anderson1983diccionario
+185	nuevo	ga⁴³					papa11	anderson1983diccionario
+186	flojo	d'a⁴nd'i⁴					papa11	anderson1983diccionario
+187	feo, malo	gua² nd'a̠²ca̠⁴					papa11	anderson1983diccionario
+188	celoso	nd'²ta³					papa11	anderson1983diccionario
+189	cerca	chen²⁴					papa11	anderson1983diccionario
+190	lejos	ye³'en²					papa11	anderson1983diccionario
+191	pesado	i³					papa11	anderson1983diccionario
+192	crudo, verde, azul	cue³					papa11	anderson1983diccionario
+193	liso	du⁴nu⁴					papa11	anderson1983diccionario
+194	despacio, lento	yi²nu⁴					papa11	anderson1983diccionario
+195	ayer	i⁴cu³					papa11	anderson1983diccionario
+196	año	ndu²yu⁴					papa11	anderson1983diccionario
+197	ahora	man³					papa11	anderson1983diccionario
+197	hoy, de día	ma⁴gu³vi³	ma⁴-gu³vi³	now-day			papa11	anderson1983diccionario
+198	noche	güi²nu⁴					papa11	anderson1983diccionario
+198	noche	yan³					papa11	anderson1983diccionario
+199	de noche, noche	'an³					papa11	anderson1983diccionario
+200	día, fecha	gu³vi³					papa11	anderson1983diccionario
+201	de día	gu³vi³					papa11	anderson1983diccionario
+202	mitad, medio	ma⁴'an³					papa11	anderson1983diccionario
+203	dinero	tu²mi⁴					papa11	anderson1983diccionario
+204	trabajo	nti³yun³					papa11	anderson1983diccionario
+205	palabra	ndu³du³					papa11	anderson1983diccionario
+206	culpa	$					papa11	anderson1983diccionario
+207	sueño, noche	yan³					papa11	anderson1983diccionario
+208	cuándo	$					papa11	anderson1983diccionario
+209	música	ca³ta³					papa11	anderson1983diccionario
